@@ -1,4 +1,5 @@
 🎧 Spotify Streaming Performance & Music Trends Dashboard
+
 An interactive Power BI dashboard built to analyze Spotify music data and uncover insights about song popularity, streaming trends, genres, and artist performance.
 This project demonstrates data visualization, KPI tracking, and trend analysis using Power BI.
 
